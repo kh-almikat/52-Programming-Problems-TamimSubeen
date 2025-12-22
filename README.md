@@ -1,7 +1,7 @@
 # 52-Programming-Problems-TamimSubeen
 ## 📚 Book Details
 
-Book: ৫২টি প্রোগ্রামিং সমস্যা ও সমাধান
+Book: ৫২টি প্রোগ্রামিং সমস্যা ও সমাধান  
 Language: Bengali
 Focus: Programming fundamentals, problem solving, logical thinking
 
