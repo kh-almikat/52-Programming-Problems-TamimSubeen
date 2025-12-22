@@ -9,8 +9,10 @@ This book contains 52 carefully selected programming problems for beginners to s
 
 ## 📝 Author Details
 
-####Author: Tamim Shahriar Subeen  
-Tamim Shahriar Subeen is a renowned Bangladeshi author and software engineer.  
+#### Author: Tamim Shahriar Subeen  
+
+Tamim Shahriar Subeen is a renowned Bangladeshi author and software engineer.
+
 He writes programming books in Bengali, making it easier for students and beginners to learn programming concepts clearly.
 His books are widely used by students across Bangladesh for problem solving practice and coding skill development.
 
